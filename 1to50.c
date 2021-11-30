@@ -6,7 +6,7 @@ int main() {
     
     counter = 1;
     while (counter <= 50) {  
-        printf("%d", counter);
+        printf("%d ", counter);
         
         counter = counter + 1;  
     }  
